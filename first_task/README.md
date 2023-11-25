@@ -1,4 +1,4 @@
 <div style="text-align: center; display: inline;">
 <p>Робот из простых фигур.</p>
-![робот](https://github.com/osifata/QML/assets/103882155/b6b1240a-8a05-4d99-a1a6-a026eba92702)
+<img src="https://github.com/osifata/QML/assets/103882155/b6b1240a-8a05-4d99-a1a6-a026eba92702"/>
 </div>
